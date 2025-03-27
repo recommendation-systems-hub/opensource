@@ -1,6 +1,7 @@
 % This file records existing opensource recommendation packages which are popular in the community.
 | Name      | Language     | License | Benchmark Provided | Evaluation | Complexity | Website|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|Tensorflow Recommendation-adson | Python | Apache V2 | No | Yes | Comprehensive | [tensorflow recommendation-adson](https://github.com/tensorflow/recommenders-addons)|
 | Surprise | Python| BSD-3 Clause | Yes | Yes | Preliminary | [Surprise](https://github.com/NicolasHug/Surprise) |
 | LightFM | Python | Apache V2 | Yes | Yes | Preliminary | [LightFM](https://github.com/lyst/lightfm) |
 | Librec | Java | GNU GPL | Yes | Yes | Preliminary | [Librec](https://github.com/guoguibing/librec)|
